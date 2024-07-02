@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bem vindos ao meu perfil 👋
 
-<!--
-**ManoGabas/ManoGabas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Estou aprendendo programação no Alura
 
-Here are some ideas to get you started:
+-Estou me especializando em JavaScript e a plataforma de programação Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Tenho um breve conhecimento de Frances e Ingles
+
+--> Meu nome é Gabriel tenho 17 anos de idade e sou uma pessoa muito calma e traquila, adoro me divertir e estou ansioso para apreder mais sobre programação ☕
+
+![](https://media1.tenor.com/m/2HxG1M-nxWQAAAAd/ryan-gosling.gif)
+
+
+
+
